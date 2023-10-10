@@ -13,7 +13,7 @@ Chat-based counseling hotlines emerged as a promising low-threshold intervention
 ### Links:
 
 OSF Registration: https://osf.io/xa4pn <br/>
-Final Paper: tbd
+Preprint: https://www.researchsquare.com/article/rs-3407849/v1
 
 
 
